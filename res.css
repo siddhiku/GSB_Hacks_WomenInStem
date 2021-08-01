@@ -1,0 +1,53 @@
+#top{
+background-color:#FF8882;
+color:#000;
+background-size: cover;
+}
+#middle{
+  background-color: #fff;
+  color: #000;
+  background-size: cover;
+  padding: 5% 5%;
+}
+#bottom{
+  background-color: #184D47;
+  color: #fff;
+  background-size: cover;
+  font-size: 1.3rem;
+  padding: 5% 5%;
+}
+body{
+  height: 100%;
+  background-repeat: repeat-y;
+  background-color: #F8E2CF;
+  background-size: 50% auto;
+  text-align: center;
+}
+.top{
+  font-family: 'Style Script', cursive;
+  font-size: 1.8rem;
+  padding: 0.5% 2%;
+}
+.para-1{
+  font-size: 1.2rem;
+  padding: 2% 5% 5% 5%;
+}
+.yoo{
+  font-size: 1.3rem;
+}
+#footer{
+  padding: 3% 15%;
+
+}
+.social-icon{
+  margin: 20px 10px
+}
+.letter{
+  font-family: 'Style Script', cursive;
+  font-size: 2.5rem;
+  padding: 0.5% 2%;
+}
+@media (max-width:1028px) {
+  #title.container-fluid{
+    padding: 15% 7%;
+  }

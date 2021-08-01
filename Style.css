@@ -1,0 +1,86 @@
+#title{
+  background-color:#FFC2B4;
+  color:#000;
+  background-size: cover;
+
+}
+#middle{
+  background-color: #FAF2DA;
+  color: #000;
+  background-size: cover;
+  padding: 5% 5% 5% 5%;
+}
+body{
+  height: 100%;
+  background-repeat: repeat-y;
+  background-size: 50% auto;
+  text-align: center;
+}
+.top-h2{
+  font-family: 'Acme', sans-serif;
+}
+.top{
+  font-family: 'Style Script', cursive;
+  font-size: 1.8rem;
+  padding-right: 0.5%;
+}
+
+.img1{
+  width:50%;
+  border-radius: 100%;
+  margin: 40px;
+  float:center;
+
+
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navBar {
+  width: 100%
+}
+.para{
+  font-family: 'Courgette', cursive;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 1.5rem;
+  padding-left: 3%;
+
+}
+.mid-val{
+  font-family: 'Vollkorn', serif;
+  font-size: 1.2rem;
+  padding: 5%;
+}
+.card-img-top1{
+  width:90%;
+  padding: 5%;
+
+}
+.card-img-top2{
+  width: 80%;
+  padding-left: 25%;
+}
+.card-img-top3{
+  width: 80%;
+  padding-left: 25%;
+}
+#bottom{
+  background-color: #E28F83;
+  background-size: cover;
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 2%;
+}
+#footer{
+  padding: 3% 15%;
+
+}
+.social-icon{
+  margin: 20px 10px
+}
+@media (max-width:1028px) {
+  #title.container-fluid{
+    padding: 15% 7%;
+  }
